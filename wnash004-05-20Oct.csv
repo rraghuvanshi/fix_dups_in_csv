@@ -1,0 +1,12 @@
+#TYPE Selected.Microsoft.Management.Infrastructure.CimInstance
+"Path","ClientComputerName","ClientUserName"
+"J:\Shares\BG_BGBDW_PROD_01\RMJ\Job_Control\Weekly","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_PROD_01\RMJ\JOB_CONTROL\DAILY","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_DTST_02\RMJ\Job_Control\Daily","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_DTST_02\RMJ\Job_Control\Weekly","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_PROD_01\RMJ\JOB_CONTROL\WEEKLY","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_PROD_01\RMJ\Job_Control\Weekly","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_PROD_01\RMJ\JOB_CONTROL\DAILY","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_DTST_02\RMJ\Job_Control\Daily","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_DTST_02\RMJ\Job_Control\Weekly","10.64.194.150","UK\zz_redwood"
+"J:\Shares\BG_BGBDW_PROD_01\RMJ\JOB_CONTROL\WEEKLY","10.64.194.150","UK\zz_redwood"
