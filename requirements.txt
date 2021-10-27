@@ -12,7 +12,7 @@ cffi==1.13.0
 conversion==0.0.7
 cryptography==2.8
 cycler==0.10.0
-dask==2.6.0
+dask==2021.10.0
 pyenchant==2.0.0
 fastparquet==0.3.2
 flake8==3.7.8
